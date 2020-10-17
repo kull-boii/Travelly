@@ -22,7 +22,7 @@ email, or any other method with the owners of this repository before making a ch
 
 # Task List
  - [x] Make website Responsive
- - [ ] Host the Website
+ - [x] Host the Website
  - [ ] Adding JS for better functionality
 
 
